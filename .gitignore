@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.swp
+
+# Venv
+venv/
+
+# Editor config files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Log files & folders
+logs/
+*.log
+
+# Django migration files
+app/migrations/__pycache__/
