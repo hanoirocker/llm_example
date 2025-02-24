@@ -40,3 +40,7 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 5. Test API by accesing `http://127.0.0.1:8000/api/chat/`
+
+## Current considerations:
+
+The actual model used `facebook/opt-1.3b` can be kind of .... offensive from time to time. Please consider discretion in your prompts and expected responses.
