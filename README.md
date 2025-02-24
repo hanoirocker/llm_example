@@ -39,4 +39,4 @@ pip install -r requirements.txt
 ```
 python manage.py runserver
 ```
-5. Test API by accesing `http://127.0.0.1:8000/chat/`
+5. Test API by accesing `http://127.0.0.1:8000/api/chat/`
