@@ -38,8 +38,11 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     
-    #Django REST Framework
+    # Django REST Framework
     "rest_framework",
+    
+    # Our api
+    "api",
 ]
 
 MIDDLEWARE = [
