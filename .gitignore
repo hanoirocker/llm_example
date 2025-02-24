@@ -13,6 +13,9 @@ venv/
 .idea/
 *.sublime-workspace
 
+# SQLite files
+db.sqlite3
+
 # Log files & folders
 logs/
 *.log
