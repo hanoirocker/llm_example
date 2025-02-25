@@ -16,6 +16,10 @@ venv/
 # SQLite files
 db.sqlite3
 
+# Redis files
+dump.rdb
+appendonly.aof
+
 # Log files & folders
 logs/
 *.log
